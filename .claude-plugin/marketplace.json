@@ -1,0 +1,23 @@
+{
+  "name": "time-gift24-core-marketplace",
+  "owner": {
+    "name": "time-gift24",
+    "email": "wanyaozhong973@gmail.com"
+  },
+  "metadata": {
+    "description": "Skills, workflows, and productivity tools, depends on superpowers-core",
+    "version": "0.1"
+  },
+  "plugins": [
+    {
+      "name": "time-gift",
+      "description": "time-gift24-core-plugin",
+      "source": "./",
+      "version": "0.1",
+      "author": {
+        "name": "time-gift24",
+        "email": "wanyaozhong973@gmail.com"
+      }
+    }
+  ]
+}
