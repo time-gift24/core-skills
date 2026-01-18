@@ -13,7 +13,7 @@
       "name": "time-gift",
       "description": "time-gift24-core-plugin",
       "source": "./",
-      "version": "0.1",
+      "version": "0.1.1",
       "author": {
         "name": "time-gift24",
         "email": "wanyaozhong973@gmail.com"
